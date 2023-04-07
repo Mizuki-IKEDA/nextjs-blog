@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Mizuki';
-export const siteTitle = 'Next.js Website';
+export const siteTitle = 'My First Next.js Website';
 
 export default function Layout({ children, home }) {
   return (
